@@ -11,6 +11,6 @@ public class PracticeMain {
 		System.out.println("Hi Daddy!");
 		System.out.println("Goodnight Avery!");
 		System.out.println("I love you Avery!");
-		System.out.println("I love you too Trevor!");
+		System.out.println("I love you too Trevor Nelson!");
 	}
 }
